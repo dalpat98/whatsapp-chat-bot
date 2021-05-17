@@ -7,6 +7,8 @@ The source code is **100% Python**.
 
 ### Show some :heart: and star the repo to support the project
 
+<img height="480px" src="https://user-images.githubusercontent.com/49696449/118535642-55dd9980-b768-11eb-9703-b6d3ac9312f4.jpg">
+
 ## Requirements :
 - Python 3.6 or newer. If your operating system does not provide a Python interpreter, you can go to python.org to download an installer.
 - Flask. We will create a web application that responds to incoming WhatsApp messages with it.
